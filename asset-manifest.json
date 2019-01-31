@@ -1,17 +1,17 @@
 {
   "main.css": "./static/css/main.cd52f0de.chunk.css",
-  "main.js": "./static/js/main.7f08b348.chunk.js",
-  "main.js.map": "./static/js/main.7f08b348.chunk.js.map",
+  "main.js": "./static/js/main.293bf3bb.chunk.js",
+  "main.js.map": "./static/js/main.293bf3bb.chunk.js.map",
   "static/css/1.95bd9b84.chunk.css": "./static/css/1.95bd9b84.chunk.css",
   "static/js/1.dc5be676.chunk.js": "./static/js/1.dc5be676.chunk.js",
   "static/js/1.dc5be676.chunk.js.map": "./static/js/1.dc5be676.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
   "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
-  "static/css/1.95bd9b84.chunk.css.map": "./static/css/1.95bd9b84.chunk.css.map",
+  "static/css/main.cd52f0de.chunk.css.map": "./static/css/main.cd52f0de.chunk.css.map",
   "static/media/Spinner.module.css": "./static/media/selfcoin.c9162439.png",
   "static/media/App.css": "./static/media/bg_line.7fde2a43.png",
-  "static/css/main.cd52f0de.chunk.css.map": "./static/css/main.cd52f0de.chunk.css.map",
+  "static/css/1.95bd9b84.chunk.css.map": "./static/css/1.95bd9b84.chunk.css.map",
   "index.html": "./index.html",
-  "precache-manifest.1c901e02ac4b6a1f0ef7a6b4e24dc416.js": "./precache-manifest.1c901e02ac4b6a1f0ef7a6b4e24dc416.js",
+  "precache-manifest.9c10c700acdda5fa61cc019605cfdc7a.js": "./precache-manifest.9c10c700acdda5fa61cc019605cfdc7a.js",
   "service-worker.js": "./service-worker.js"
 }
