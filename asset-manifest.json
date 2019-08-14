@@ -1,7 +1,7 @@
 {
   "main.css": "./static/css/main.cc792b12.chunk.css",
-  "main.js": "./static/js/main.e4f9510f.chunk.js",
-  "main.js.map": "./static/js/main.e4f9510f.chunk.js.map",
+  "main.js": "./static/js/main.c9d8130d.chunk.js",
+  "main.js.map": "./static/js/main.c9d8130d.chunk.js.map",
   "static/js/1.337d00a5.chunk.js": "./static/js/1.337d00a5.chunk.js",
   "static/js/1.337d00a5.chunk.js.map": "./static/js/1.337d00a5.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
@@ -10,6 +10,6 @@
   "static/media/Spinner.module.css": "./static/media/selfcoin.c9162439.png",
   "static/media/App.css": "./static/media/bg_line.7fde2a43.png",
   "index.html": "./index.html",
-  "precache-manifest.13ac93ee1b0c2c4b39f321f14340accd.js": "./precache-manifest.13ac93ee1b0c2c4b39f321f14340accd.js",
+  "precache-manifest.6b97bf0f331072ad6603ea06bfaec5b5.js": "./precache-manifest.6b97bf0f331072ad6603ea06bfaec5b5.js",
   "service-worker.js": "./service-worker.js"
 }
